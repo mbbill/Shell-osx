@@ -1,0 +1,11 @@
+It's an OSX-like theme for gnome-shell, forked from Elementary theme which was designed by Sean Wilson.
+
+Install:
+
+# close this repo.
+$git clone git://github.com/mbbill/Shell-osx.git
+
+# install to local themes folder.
+$cp -r ./Shell-osx ~/.themes
+
+# switch to it in 'gnome-tweak-tool' -> 'Theme' -> 'Shell theme'
